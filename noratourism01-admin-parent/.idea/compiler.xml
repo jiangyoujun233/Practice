@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="noratourism04-admin-entity" />
+        <module name="noratourism05-common-util" />
+        <module name="noratourism03-admin-component" />
+        <module name="noratourism02-admin-webui" />
+        <module name="noratourism06-common-reverse" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
